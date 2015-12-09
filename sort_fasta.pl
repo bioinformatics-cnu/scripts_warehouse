@@ -1,7 +1,7 @@
 #written by thippo
 #2015.10.31
 
-#sort fasta file with length of the sequences
+#sort fasta file by length of the sequences
 
 open(FILE,'input_file.fasta');
 open(OUT,'>output_file.out');
