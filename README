@@ -1,0 +1,4 @@
+sort_fasta.pl	依据序列长度将fasta文件排序 perl
+vote_py3.py	投票小脚本 python3.4.3
+google2.py	修改host文件上google脚本 python2（windows）https://www.google.com
+google3.py	修改host文件上google脚本 python3（windows）https://www.google.com
